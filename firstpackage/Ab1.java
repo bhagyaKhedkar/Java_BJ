@@ -1,7 +1,7 @@
 package firstpackage;
 
 // This is new Edit
-
+// This is second edit
 public class Ab1 extends Ab2
 {
 	public static void main(String[] args)
